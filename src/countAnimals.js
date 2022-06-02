@@ -15,5 +15,5 @@ function countAnimals(animal) {
   }
   return animalFind.residents.length;
 }
-console.log(countAnimals({ specie: 'penguins' }));
+
 module.exports = countAnimals;
